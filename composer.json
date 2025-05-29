@@ -1,0 +1,13 @@
+{
+    "name": "fredy/cuscospa",
+    "description": "Módulo de reservas Cusco Spa",
+    "require": {
+        "google/apiclient": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Fredy",
+            "email": "020101729c@uandina.edu.pe"
+        }
+    ]
+}
